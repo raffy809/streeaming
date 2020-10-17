@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1,RIVERDALE 3X1
-https://s-delivery10.mxdcontent.net/v/5b46749e5e4edc654fbd544116a00482.mp4?s=AuxtRK-PFMNDcXkcnVVi9Q&e=15902094067
-#EXTINF:-1,RIVERDALE 3X2
-https://s-delivery8.mxdcontent.net/v/e7b3f5d8bb48faaaa4d244fb51ca4216.mp4?s=Dg4mw_79vgRImwykoxSbwg&e=1590209784
-#EXTINF:-1,RIVERDALE 3X3
-https://s-delivery5.mxdcontent.net/v/c34cb2374e9b13d5c430167013d481c2.mp4?s=VTOuMlkZ1zDdNPjD78GHjA&e=1590209826
-#EXTINF:-1,RIVERDALE 3X4
-https://s-delivery6.mxdcontent.net/v/9f38ecdf19f9b1747b1f28bc12f9b051.mp4?s=waD6lsdcZbxWVbaXHOmQnw&e=1590209863
+#EXTINF:-1,video prova
+127.0.0.1/video-3secondi.mp4
